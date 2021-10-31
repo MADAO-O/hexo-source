@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Windows11吐槽</title>
+      <link href="ptnk/b553e2bd.html"/>
+      <url>ptnk/b553e2bd.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>感想</p><hr><p>今天下午2：38分开始更新Windows11<br>差不多3个小时可以使用了</p><p>任务栏右侧整理了，win10里面的那些开关移除，只留了网络、声音、电源、日历、通知(提醒时激活)<br>任务栏右键只有一个设置选项，不过任务管理器可以固定到主页用<br>悬停有时候会出现一些显示错误，光标指示器会出现在奇妙的地方，任务栏悬停有时候会显示时间，也许是我太卡了吧</p><p>win11右键单击提供了新的选项卡，但是提供的选项卡感觉有些鸡肋<br>不能右键+E的快乐刷新，常用的快捷方式也全部被移到次级选项卡里面<br>要使用旧版本桌面右键的许多选项，需要进行二次点击或者快捷键才会展示</p><p>任务栏多了个小组件，提供的内容就是某个软件修改后的浏览器主页上推送的各种乱七八糟的消息，感觉完全没有用<br>我以为是喜好设定的问题，UI右上角点进设置添加了一些内容，不过用处嘛 :(</p><p>搜索栏没有太大的更新吧<br>(不过刚更新好的时候好像要重建索引，会后台占用(不过这个索引为什么要读OneNote))</p><p>分屏在最大化悬停可以选择分屏样式和位置</p><p>加载文件夹的速度慢了很多，打开文件夹会有很明显的卡顿了，csdn上看到可以修改注册表更改资源管理器的样式，改回win10样式就不卡了…</p><p>安卓子系统和手机传输现在还没有</p><p>之前很鸡肋的平板模式现在移除了</p><p>边框变圆了，操作系统使用时的动画效果很不错很有动感，可以切换触屏键盘、光标指示器等样式并自定义，微软商店的界面进行了优化比以前更加直观<br>看起来更舒服了</p><hr><p>总结：流畅度– 美观度+<br>我个人认为现在还没必要更新，等功能开放、优化也差不多再升级能有更好的体验<br>我自己还用的三年前的超极本，感觉影响还挺大的，毕竟UI一会就习惯了，但是使用上的不适会持续一段时间<br>不过我也不打算回退了，太懒了属于是</p><p>10-30 : 别升级！太卡了！我的妈妈呀</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 吐槽篇 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows11 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello，World</title>
+      <link href="ptnk/a307bec8.html"/>
+      <url>ptnk/a307bec8.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>感想</p><hr><p>哎呀哎呀，学习了好多大佬的博客，终于差不多搞定了…有什么好玩好用的插件以后再慢慢添加吧！太麻烦了=-=<br><img src="https://cdn.jsdelivr.net/gh/MADAO-O/medias/photo/1.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 吐槽篇 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Unity </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
