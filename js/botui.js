@@ -386,7 +386,7 @@ function bot_ui_ini() {
     gg = function () {
         botui.message.bot({
             delay: 1e3,
-            content:"![qaq](/medias/bot/1.jpg)"
+            content:"![qaq](https://cdn.jsdelivr.net/gh/MADAO-O/hexo-source/medias/bot/1.jpg)"
         })  
     }
 }
